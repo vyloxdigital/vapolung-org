@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vapolung-org.vercel.app/sitemap.xml
